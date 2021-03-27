@@ -1,3 +1,3 @@
 # Polynomial-Equation-Calculator
 
-The project involves the implementation of a polynomial equation calculator, with integer coefficients, which performs the main arithmetic operations: addition, subtraction, multiplication, division, derivation and integration.
+This project implements a polynomial calculator which performs the main arithmetic operations (addition, subtraction, multiplication, division, differentiation, integration) on single variable polynomials, with integer coefficients
